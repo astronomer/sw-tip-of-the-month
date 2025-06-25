@@ -6,7 +6,7 @@ Monthly technical tips and best practices from the Software Center of Excellence
 
 ### 2025
 
-- **[May 2025](./May%202025/README.md)** - Check List of Deployments Having DEBUG Logging Enabled
+- **[June 2025](./June-2025/README.md)** - Check List of Deployments Having DEBUG Logging Enabled
   - Identify deployments with DEBUG logging that could clog up Elasticsearch
   - Includes automated checking curl command via Houston API
 

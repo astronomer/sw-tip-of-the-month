@@ -1,4 +1,4 @@
-# Tip of the Month - May 2025
+# Tip of the Month - June 2025
 
 ## Check List of Deployments Having DEBUG Logging Enabled
 
